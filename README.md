@@ -1,2 +1,1 @@
-*Emphasize* _emphasize_
-**Strong** __Strong__
+this is my task1 readme
